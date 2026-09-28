@@ -11,7 +11,7 @@ The Tramba model integrates:
 - **Gated fusion** of spatial and temporal features.
 
 <p align="center">
-  <img src="model_architecture.svg" alt="Tramba Architecture" width="700">
+  <img src="fig1.png" alt="Tramba Architecture" width="700">
 </p>
 
 ---
