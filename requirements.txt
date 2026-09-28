@@ -1,0 +1,8 @@
+numpy>=1.24
+pandas>=2.0
+scikit-learn>=1.4
+scipy>=1.10
+torch>=2.2
+# HDF input: pip install tables
+# Tests: pip install pytest
+# Notebook UI: pip install notebook ipykernel
